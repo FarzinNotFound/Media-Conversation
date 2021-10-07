@@ -9,7 +9,7 @@
   ```3. pip install -r requirements.txt```
 
 # Config
-  you can set your user id, api id, api hash and token in config.py
+  you need to set your user id, api id, api hash and token in config.py
 
 # Run
   In Windows:
