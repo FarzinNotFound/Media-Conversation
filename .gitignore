@@ -1,0 +1,4 @@
+*.session
+*.db
+downloads
+__pycache__
